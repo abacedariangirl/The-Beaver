@@ -14,7 +14,7 @@
    }
  ],
  "thumbnail": {
-   "@id": "https://example.org/iiif/beaver/full/80,100/0/default.jpg",
+   "@id": "https://i.imgur.com/OifHZJf.jpeg",
    "@type": "dctypes:Image",
    "service": {
      "@context": "http://iiif.io/api/image/2/context.json",
@@ -40,7 +40,7 @@
              "@type": "oa:Annotation",
              "motivation": "sc:painting",
              "resource": {
-               "@id": "https://example.org/iiif/beaver/full/full/0/default.jpg",
+               "@id": "https://i.imgur.com/OifHZJf.jpeg",
                "@type": "dctypes:Image",
                "height": 3000,
                "width": 2000,
