@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "/config/manifest-templates/blank.json",
+  "id": "https://manifest-editor.digirati.services/config/manifest-templates/blank.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639",
+      "id": "https://manifest-editor.digirati.services/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639",
       "type": "Canvas",
       "height": 3508,
       "width": 2481,
@@ -20,14 +20,14 @@
       },
       "items": [
         {
-          "id": "/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639/annotation-page/23e557c8-4b79-4491-9818-6c634d0b6e9e",
+          "id": "https://manifest-editor.digirati.services/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639/annotation-page/23e557c8-4b79-4491-9818-6c634d0b6e9e",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "/config/manifest-templates/blank.json/annotation/07f932bc-118a-4423-887f-75947ea3fd74",
+              "id": "https://manifest-editor.digirati.services/config/manifest-templates/blank.json/annotation/07f932bc-118a-4423-887f-75947ea3fd74",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639",
+              "target": "https://manifest-editor.digirati.services/config/manifest-templates/blank.json/canvas/65b3e5a6-21aa-4f4f-a7bc-569f01718639",
               "body": {
                 "id": "https://i.imgur.com/OifHZJf.jpeg",
                 "type": "Image",
